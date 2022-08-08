@@ -46,5 +46,5 @@ credentials filetype:txt
   
 ### Google advanced search ui
 ```
-[(gdb) info b/reg/variables/functions](https://www.google.com/advanced_search)
+[google advanced search](https://www.google.com/advanced_search)
 ```
