@@ -43,6 +43,11 @@ morning routine site:reddit.com
 ```
 credentials filetype:txt
 ```
+
+### search in url
+```
+inurl:credentials
+```
   
 ### Google advanced search ui
 [google advanced search](https://www.google.com/advanced_search)
