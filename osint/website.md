@@ -21,3 +21,6 @@ https://github.com/dievus/msdorkdump
 ### monitor website changes
 https://visualping.io/
 
+### tools
+https://pentest-tools.com/
+
