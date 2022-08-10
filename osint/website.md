@@ -1,11 +1,16 @@
 ### Identify technologies on websites
 https://addons.mozilla.org/sk/firefox/addon/wappalyzer/
+
 https://builtwith.com/
 
 ### website info
 https://spyonweb.com/
+
 https://centralops.net/co/
+
 https://dnslytics.com/
+
+https://viewdns.info/
 
 ### used to identify DNS records for target domains, check for zone transfers and conduct subdomain enumeration
 https://github.com/dievus/msdnsscan
