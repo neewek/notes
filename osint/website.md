@@ -27,4 +27,17 @@ https://archive.org/web/
 ### tools
 https://pentest-tools.com/
 
+---
+
+### domain info
+whois <domain>
+  
+### sub enumeration
+subfinder -d <domain>
+
+### find related domains
+https://github.com/tomnomnom/assetfinder
+
+
+
 
