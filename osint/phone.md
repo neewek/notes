@@ -6,5 +6,5 @@ phoneinfoga scan -n 421914563213
 
 ### fancy scan
 ```
-phoneinfoga serve
+phoneinfoga serve -p 8080
 ```
