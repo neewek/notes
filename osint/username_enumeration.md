@@ -1,5 +1,6 @@
 ### enumerate usernames across many websites
 https://whatsmyname.app/
+
 https://github.com/sherlock-project/sherlock
 
 ### check username and domain availability on platforms
