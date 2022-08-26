@@ -28,3 +28,11 @@ So, doing a^(p-2) and then (mod p) we can achieve
 our result    
 
 
+## Quadratic Residues
+We can take the integer a = 11 and calculate a2 = 5 mod 29.
+
+As a = 11, a^2 = 5, we say the square root of 5 is 11.
+
+We say that an integer x is a Quadratic Residue if there exists an a such that a2 = x mod p. If there is no such solution, then the integer is a Quadratic Non-Residue.
+
+If a^2 = x then (-a)^2 = x. So if x is a quadratic residue in some finite field, then there are always two solutions for a.
